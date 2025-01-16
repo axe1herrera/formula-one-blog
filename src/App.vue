@@ -2,12 +2,12 @@
 
 <template>
   <Contador></Contador>
-  <Helloworld></Helloworld>
+  <ListaDeTareas></ListaDeTareas>
 </template>
 
 <script setup>
 import Contador from './components/Contador.vue';
-import Helloworld from './components/HelloWorld.vue';
+import ListaDeTareas from './components/ListaDeTareas.vue';
 </script>
 
 <style scoped>
